@@ -14,5 +14,11 @@ int c = 010; stores the decimal value 8.
 Unicode Literals: Declared using the \u escape sequence inside single quotes.
 char symbol = '\u0024'; stores the hexadecimal ID for the dollar sign ($).
 ~~~
+ After run code it look like 
+
+~~~
+TotalMask:273
+symbol:$
+~~~
 
 
