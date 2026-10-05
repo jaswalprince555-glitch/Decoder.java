@@ -14,7 +14,5 @@ int c = 010; stores the decimal value 8.
 Unicode Literals: Declared using the \u escape sequence inside single quotes.
 char symbol = '\u0024'; stores the hexadecimal ID for the dollar sign ($).
 ~~~
-=======
-# Java-Memory-Allocation-Casting-Spaceship-Diagnostics
-Demonstrated Java memory efficiency and explicit type casting by selecting precise primitive data types to build a terminal-based diagnostic report.
->>>>>>> 8d08638 (Initial commit)
+
+
